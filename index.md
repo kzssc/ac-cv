@@ -103,11 +103,11 @@ __University of Warwick__, Coventry
 ## Teaching
 `2021`
 __History of Political Philosophy__, Universitat Pompeu Fabra
-- Module leader: Prof Jose-Juan Moreso
+- Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso)
 - Teaching assessment: N/A
 
 __Justice and Individual Rights__, Universitat Pompeu Fabra
-- Module leader: Dr Jahel Queralt
+- Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 - Teaching assessment: 9.2/10
 
 ## Work in Progress and Presentations
@@ -117,14 +117,14 @@ __“Post-Work and Self-Employment”__
 
 __“Meaningful Work as Public Goods”__
 
-- UPF Law and Philosophy PhD Seminar
 `June 2021`
+- UPF Law and Philosophy PhD Seminar
 
 
 __"What is Distinctive about Contemporary Self-Employment?”__
 
-- UPF-UCLouvain Hoover Chair Workshop
 `April 2021`
+- UPF-UCLouvain Hoover Chair Workshop
 
 
 __Translation of an academic book and various academic articles into Chinese__
@@ -132,10 +132,12 @@ __Translation of an academic book and various academic articles into Chinese__
 
 ## Other Presentations
 __“Justice and Self-Employment”__
+`June 2021`
 - SOAS Postgraduate Political Theory Workshop
 
 
 __“If You're an Egalitarian, How Come You Like Lotteries?”__
+
 `July 2018`
 - The 15th Conference of the International Society for Utilitarian Studies
 - Karlsruhe Institute of Technology
@@ -152,22 +154,24 @@ __“Speech and National Self-Determination”__
 - University of Warwick MA Dissertation Conference
 
 __“Should there be a right to Euthanasia? A case against Velleman”__
-- University of Essex Annual Government Student Conference
+
 `May 2016`
+- University of Essex Annual Government Student Conference
 
 
 ## Administration and Organisation
+
 `July 2021`
 __Conference Co-Organiser, Universitat Pompeu Fabra__
 - Justice at Work
 
-`now`
+`2021-`
 __Contemporary Political Theory, online__
 - cross-institution
 
 
 ## For General Public
-`2019`
+`Summer 2019`
 [Seminar at 706 Guangzhou on Suﬃcientarianism and Distributive Justice in 2020](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
 
 
