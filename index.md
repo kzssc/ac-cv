@@ -35,19 +35,19 @@ Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher 
 __Universitat Pompeu Fabra__
 
 - PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
-- Supervisors: Drs Iñigo González Ricoy and Jahel Queralt Lange
+- Supervisors: Drs [Iñigo González Ricoy](https://www.igonzalezricoy.com) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt)(UPF)
 
 `2017-2018`
 __Universitat Pompeu Fabra__
 
 - MA Political Philosophy, “Suﬃciency: Distributive or Contributive?”
-- Supervisors: Dr Edward Page and Prof Andrew Williams
+- Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/)(Warwick) and [Prof Andrew Williams](https://www.icrea.cat/Web/ScientificStaff/Andrew-Williams-503)(ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__
 
 - MA Political and Legal Theory
-- double degree with Universitat Pompeu Fabra
+- *double degree with Universitat Pompeu Fabra*
 
 `2013-2016`
 __University of Essex__
@@ -60,7 +60,8 @@ __University of Essex__
 `2020-2024`
 Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
 
-`2017` Scholarship for "Equality and Citizenship Summer School 2017", University of Rijeka 
+`2017` 
+Scholarship for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Publications
@@ -90,13 +91,13 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
-- "Family Justice"(https://www.demographyethicsandpublicpolicy.org/) project for Prof Serena Olsaretti (UPF)
+- "Family Justice"(https://www.demographyethicsandpublicpolicy.org/) project for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti) (UPF)
 
 `2016-2017`
 __University of Warwick__, Coventry
 
 - Research Assistant
-- "The Ethics of Santa Claus" for Prof Matthew Clayton (Warwick) and Dr Tom Parr (Warwick)
+- "The Ethics of Santa Claus" for [Prof Matthew Clayton](https://warwick.ac.uk/fac/soc/pais/people/clayton/)(Warwick) and [Dr Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick)
 
 
 
@@ -118,44 +119,38 @@ __“Post-Work and Self-Employment”__
 __“Meaningful Work as Public Goods”__
 
 `June 2021`
-- UPF Law and Philosophy PhD Seminar
-
-
-__"What is Distinctive about Contemporary Self-Employment?”__
+- UPF Law PhD Jornada Conference
 
 `April 2021`
+__"What is Distinctive about Contemporary Self-Employment?”__
 - UPF-UCLouvain Hoover Chair Workshop
-
 
 __Translation of an academic book and various academic articles into Chinese__
 
 
 ## Other Presentations
-__“Justice and Self-Employment”__
+
 `June 2021`
+__“Justice and Self-Employment”__
 - SOAS Postgraduate Political Theory Workshop
 
-
-__“If You're an Egalitarian, How Come You Like Lotteries?”__
-
 `July 2018`
+__[“If You're an Egalitarian, How Come You Like Lotteries?”](https://www.isus2018.de/menu/programme/talks-abstracts/)__
 - The 15th Conference of the International Society for Utilitarian Studies
 - Karlsruhe Institute of Technology
 
-__Commentator for Robert Huseby (Oslo), “Sufficiency and the Threshold Question”__
 
 `February 2018`
+__Commentator for Robert Huseby (Oslo), “Sufficiency and the Threshold Question”__
 - Suﬃciency: Never Enough
 - Universitat Pompeu Fabra
 
-__“Speech and National Self-Determination”__
-
 `May 2017`
+__“Speech and National Self-Determination”__
 - University of Warwick MA Dissertation Conference
 
-__“Should there be a right to Euthanasia? A case against Velleman”__
-
 `May 2016`
+__“Should there be a right to Euthanasia? A case against Velleman”__
 - University of Essex Annual Government Student Conference
 
 
