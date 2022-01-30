@@ -3,11 +3,11 @@ layout: cv
 title: Sisheng Chris Zhang's CV
 ---
 # Sisheng Chris Zhang
-Physicist, Mathematician, Cambridge professor.
+Doctoral Researcher at Universitat Pompeu Fabra, Barcelona. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="chris.zhangATupf.edu">chris.zhang (AT) upf.edu</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My page</a>
 </div>
 
 
