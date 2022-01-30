@@ -8,10 +8,14 @@ Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu F
 
 Filosofia del Dret, Universitat Pompeu Fabra
 
+Ramon Trias Fargas, 25-27
+
+08005 Barcelona
+
 <div id="webaddress">
 <a href="mailto:chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
 | <a href="http://czhang.uk">My website</a>
-  <a href="http://sishengzhang.com">中文主页</a> 
+| <a href="http://sishengzhang.com">中文主页</a> 
 </div>
 
 
@@ -91,7 +95,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
-- "Family Justice"(https://www.demographyethicsandpublicpolicy.org/) project for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti) (UPF)
+- "Family Justice"(https://www.demographyethicsandpublicpolicy.org/) project for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__, Coventry
@@ -132,7 +136,7 @@ __Translation of an academic book and various academic articles into Chinese__
 
 `June 2021`
 __“Justice and Self-Employment”__
-- SOAS Postgraduate Political Theory Workshop
+- SOAS Postgraduate Political Theory Workshop, online
 
 `July 2018`
 __[“If You're an Egalitarian, How Come You Like Lotteries?”](https://www.isus2018.de/menu/programme/talks-abstracts/)__
@@ -162,16 +166,16 @@ __Conference Co-Organiser, Universitat Pompeu Fabra__
 
 `2021-`
 __Contemporary Political Theory, online__
-- cross-institution
+- Cross-institution
 
 
 ## For General Public
 `Summer 2019`
-[Seminar at 706 Guangzhou on Suﬃcientarianism and Distributive Justice in 2020](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
+- [Seminar at 706 Guangzhou on Suﬃcientarianism and Distributive Justice in 2020](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
+- Guangzhou, China
 
+### Footer
 
-<!-- ### Footer
-
-Last updated: Sunday, 30 January 2022 -->
+Last updated: Sunday, 30 January 2022
 
 
