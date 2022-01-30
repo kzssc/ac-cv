@@ -3,27 +3,27 @@ layout: cv
 title: Sisheng Chris Zhang's CV
 ---
 # Sisheng Chris Zhang
-Doctoral Researcher of Political Philosophy at Universitat Pompeu Fabra
+Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra
 
 <div id="webaddress">
 <a href="chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
-| <a href="http://czhang.uk">My website page</a>
+| <a href="http://czhang.uk">My website</a>
 </div>
 
 
+<!--
 ## Currently
 
 Standing on the shoulders of giants
+-->
 
-### Specialized in
+### Specialised in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Normative and Analytic Contemporary Political Theory, Ethics
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher Education
 
 ## Education
 
