@@ -4,6 +4,7 @@ title: S. Chris Zhang's CV
 ---
 # Sisheng Chris Zhang
 Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra
+
 Filosofia del Dret, Universitat Pompeu Fabra
 
 <div id="webaddress">
@@ -30,33 +31,32 @@ Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher 
 
 `2020-now`
 __Universitat Pompeu Fabra__
-“Justice, Autonomy, and Self-Employment”
+
+PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
 - Supervisors: Drs Iñigo González Ricoy and Jahel Queralt Lange
 
-`2016-2018`
-__University of Warwick and Universitat Pompeu Fabra__
+`2017-2018`
+__Universitat Pompeu Fabra__
 
-- Sizar
+- MA Political Philosophy, “Suﬃciency: Distributive or Contributive?”
+- Supervisors: Dr Edward Page and Prof Andrew Williams
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2016-2017`
+__University of Warwick__
 
-- Fellow
-
+- MA Political and Legal Theory
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2020-2024`
+FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
 
 
-
+<!--
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+ A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
 
@@ -74,17 +74,20 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+-->
 
-`1600`
-__Royal Mint__, London
+## Employment
 
-- Warden
-- Minted coins
+`2021-now`
+__Universitat Pompeu Fabra__, Barcelona
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Research Assistant
+- Family Justice project, led by Prof Serena Olsaretti
 
+`2016-2017`
+__University of Warwick__, Coventry
+
+- 
 
 
 <!-- ### Footer
