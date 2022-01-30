@@ -115,6 +115,16 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 - Teaching assessment: 9.2/10
 
+
+<!--
+## Member of
+
+[__Justice at Work__](https://www.upf.edu/web/justwork), Universitat Pompeu Fabra
+-->
+
+
+
+
 ## Work in Progress and Presentations
 
 __“Post-Work and Self-Employment”__
@@ -170,9 +180,9 @@ __Contemporary Political Theory, online__
 
 
 ## For General Public
-`Summer 2019`
-- [Seminar at 706 Guangzhou on Suﬃcientarianism and Distributive Justice in 2020](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
-- Guangzhou, China
+`Summer 2020`
+- [Seminar on Suﬃcientarianism and Distributive Justice](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
+- 706 Guangzhou, Guangzhou, China
 
 ### Footer
 
