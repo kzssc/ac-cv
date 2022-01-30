@@ -113,14 +113,16 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 
 ## Work in Progress and Presentations
 __“Post-Work and Self-Employment”__
-__“Meaningful Work as Public Goods”__
 
-`June 2021`
+
+__“Meaningful Work as Public Goods”__
 - UPF Law and Philosophy PhD Seminar
+`June 2021`
+
 
 __"What is Distinctive about Contemporary Self-Employment?”__
-`April 2021`
 - UPF-UCLouvain Hoover Chair Workshop
+`April 2021`
 
 
 __Translation of an academic book and various academic articles into Chinese__
