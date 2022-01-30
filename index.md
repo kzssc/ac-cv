@@ -145,10 +145,10 @@ __Commentator for Robert Huseby (Oslo), “Suﬃciency and the Threshold Questio
 
 __“Speech and National Self-Determination”__
 `May 2017`
-University of Warwick MA Dissertation Conference
+- University of Warwick MA Dissertation Conference
 
 __“Should there be a right to Euthanasia? A case against Velleman”__
-University of Essex Annual Government Student Conference
+- University of Essex Annual Government Student Conference
 `May 2016`
 
 
