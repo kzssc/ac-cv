@@ -141,11 +141,13 @@ __“If You're an Egalitarian, How Come You Like Lotteries?”__
 - Karlsruhe Institute of Technology
 
 __Commentator for Robert Huseby (Oslo), “Sufficiency and the Threshold Question”__
+
 `February 2018`
 - Suﬃciency: Never Enough
 - Universitat Pompeu Fabra
 
 __“Speech and National Self-Determination”__
+
 `May 2017`
 - University of Warwick MA Dissertation Conference
 
