@@ -34,24 +34,24 @@ Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher 
 ## Education
 
 `2020-now`
-__Universitat Pompeu Fabra__
+__Universitat Pompeu Fabra__, ES
 
 - PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
 - Supervisors: Drs [Iñigo González Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
 
 `2017-2018`
-__Universitat Pompeu Fabra__
+__Universitat Pompeu Fabra__, ES
 
 - MA Political Philosophy, “Suﬃciency: Distributive or Contributive?”
 - Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/) (Warwick) and [Prof Andrew Williams](https://www.icrea.cat/Web/ScientificStaff/Andrew-Williams-503) (ICREA-UPF)
 
 `2016-2017`
-__University of Warwick__
+__University of Warwick__, GB
 
 - MA Political and Legal Theory, double degree with Universitat Pompeu Fabra
 
 `2013-2016`
-__University of Essex__
+__University of Essex__, GB
 
 - BA(Hons) Philosophy, Politics and Economics
 
