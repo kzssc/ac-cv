@@ -108,6 +108,7 @@ __History of Political Philosophy__, Universitat Pompeu Fabra
 - Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso)
 - Teaching assessment: N/A
 
+`2021`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 - Teaching assessment: 9.2/10
