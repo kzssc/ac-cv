@@ -1,15 +1,17 @@
 ---
 layout: cv
-title: S. Chris Zhang's CV
+title: S. Chris Zhang 
 ---
 # Sisheng Chris Zhang
+
 Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra
 
 Filosofia del Dret, Universitat Pompeu Fabra
 
 <div id="webaddress">
-<a href="chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
+<a href="mailto:chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
 | <a href="http://czhang.uk">My website</a>
+  <a href="http://sishengzhang.com">中文主页</a> 
 </div>
 
 
@@ -19,7 +21,7 @@ Filosofia del Dret, Universitat Pompeu Fabra
 Standing on the shoulders of giants
 -->
 
-### Specialised in
+### Area of interests 
 
 Normative and Analytic Contemporary Political Theory, Ethics
 
@@ -32,7 +34,7 @@ Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher 
 `2020-now`
 __Universitat Pompeu Fabra__
 
-PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
+- PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
 - Supervisors: Drs Iñigo González Ricoy and Jahel Queralt Lange
 
 `2017-2018`
@@ -45,13 +47,21 @@ __Universitat Pompeu Fabra__
 __University of Warwick__
 
 - MA Political and Legal Theory
+- double degree with Universitat Pompeu Fabra
+
+`2013-2016`
+__University of Essex__
+
+- BA(Hons) Philosophy, Politics and Economics
 
 
 ## Awards
 
 `2020-2024`
-FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
+Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
 
+`2017`
+Attendence funding for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Publications
@@ -73,7 +83,6 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
-
 -->
 
 ## Employment
@@ -82,16 +91,36 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
-- Family Justice project, led by Prof Serena Olsaretti
+- Family Justice project for Prof Serena Olsaretti (UPF)
 
 `2016-2017`
 __University of Warwick__, Coventry
 
-- 
+- Research Assistant
+- "The Ethics of Santa Claus" for Prof Matthew Clayton (Warwick) and Dr Tom Parr (Warwick)
 
+
+
+## Teaching
+`2021`
+__History of Political Philosophy__, Universitat Pompeu Fabra
+- Module leader: Prof Jose-Juan Moreso
+- - Teaching assessment: N/A
+
+__Justice and Individual Rights__, Universitat Pompeu Fabra
+- Module leader: Dr Jahel Queralt
+- Teaching assessment: 9.2/10
+
+## Work in Progress and Presentations
+1. “Wither Self-Employment”
+2. “Meaningful Work as Public Goods”
+2.1 UPF Law and Philosophy PhD Seminar2 
+3. "What is Distinctive about Contemporary Self-Employment?”
+3.1 UPF-UCLouvain Hoover Chair Workshop3 
+4. Translation of an academic book and various academic articles into Chinese;
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sunday, 30 January 2022 -->
 
 
