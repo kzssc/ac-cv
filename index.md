@@ -61,7 +61,7 @@ __University of Essex__
 Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
 
 `2017`
-Attendence funding for "Equality and Citizenship Summer School 2017", University of Rijeka 
+Scholarship for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Publications
@@ -112,12 +112,28 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Teaching assessment: 9.2/10
 
 ## Work in Progress and Presentations
-1. “Wither Self-Employment”
-2. “Meaningful Work as Public Goods”
-2.1 UPF Law and Philosophy PhD Seminar2 
-3. "What is Distinctive about Contemporary Self-Employment?”
-3.1 UPF-UCLouvain Hoover Chair Workshop3 
-4. Translation of an academic book and various academic articles into Chinese;
+__“Post-Work and Self-Employment”__
+__“Meaningful Work as Public Goods”__
+
+`June 2021`
+- UPF Law and Philosophy PhD Seminar
+
+__"What is Distinctive about Contemporary Self-Employment?”__
+`April 2021`
+- UPF-UCLouvain Hoover Chair Workshop
+
+
+__Translation of an academic book and various academic articles into Chinese__
+
+
+## Other Presentations
+__“Justice and Self-Employment”__
+SOAS Postgraduate Political Theory Workshop
+
+
+__“If You're an Egalitarian, How Come You Like Lotteries?”__
+`Karlsruhe Institute of Technology, July 2018`
+The 15th Conference of the International Society for Utilitarian Studies
 
 <!-- ### Footer
 
