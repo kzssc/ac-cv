@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Sisheng Chris Zhang's CV
+title: S. Chris Zhang's CV
 ---
 # Sisheng Chris Zhang
 Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra
+Filosofia del Dret, Universitat Pompeu Fabra
 
 <div id="webaddress">
 <a href="chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
@@ -27,11 +28,13 @@ Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-now`
+__Universitat Pompeu Fabra__
+“Justice, Autonomy, and Self-Employment”
+- Supervisors: Drs Iñigo González Ricoy and Jahel Queralt Lange
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2018`
+__University of Warwick and Universitat Pompeu Fabra__
 
 - Sizar
 
