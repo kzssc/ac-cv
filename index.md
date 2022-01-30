@@ -105,7 +105,7 @@ __University of Warwick__, Coventry
 `2021`
 __History of Political Philosophy__, Universitat Pompeu Fabra
 - Module leader: Prof Jose-Juan Moreso
-- - Teaching assessment: N/A
+- Teaching assessment: N/A
 
 __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: Dr Jahel Queralt
@@ -128,12 +128,41 @@ __Translation of an academic book and various academic articles into Chinese__
 
 ## Other Presentations
 __“Justice and Self-Employment”__
-SOAS Postgraduate Political Theory Workshop
+- SOAS Postgraduate Political Theory Workshop
 
 
 __“If You're an Egalitarian, How Come You Like Lotteries?”__
-`Karlsruhe Institute of Technology, July 2018`
-The 15th Conference of the International Society for Utilitarian Studies
+`July 2018`
+- The 15th Conference of the International Society for Utilitarian Studies
+- Karlsruhe Institute of Technology
+
+__Commentator for Robert Huseby (Oslo), “Suﬃciency and the Threshold Question”__
+`February 2018`
+- Suﬃciency: Never Enough
+- Universitat Pompeu Fabra
+
+__“Speech and National Self-Determination”__
+`May 2017`
+University of Warwick MA Dissertation Conference
+
+__“Should there be a right to Euthanasia? A case against Velleman”__
+`May 2016`
+University of Essex Annual Government Student Conference
+
+## Administration and Organisation
+`July 2021`
+__Conference Co-Organiser, Universitat Pompeu Fabra__
+- Justice at Work
+
+`now`
+__Contemporary Political Theory, online__
+- cross-institution
+
+
+## For General Public
+`2019`
+Seminar at 706 Guangzhou on Suﬃcientarianism and Distributive Justice in 2020(https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
+
 
 <!-- ### Footer
 
