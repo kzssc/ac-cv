@@ -169,11 +169,11 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 ## Administration and Organisation
 
 `July 2021`
-__Conference Co-Organiser, Universitat Pompeu Fabra__
+__Conference Co-Organiser__, Universitat Pompeu Fabra
 - Justice at Work
 
 `2021-`
-__Contemporary Political Theory, online__
+__Contemporary Political Theory__, online
 - Cross-institution
 
 
