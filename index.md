@@ -138,7 +138,7 @@ __“If You're an Egalitarian, How Come You Like Lotteries?”__
 - The 15th Conference of the International Society for Utilitarian Studies
 - Karlsruhe Institute of Technology
 
-__Commentator for Robert Huseby (Oslo), “Suﬃciency and the Threshold Question”__
+__Commentator for Robert Huseby (Oslo), “Sufficiency and the Threshold Question”__
 `February 2018`
 - Suﬃciency: Never Enough
 - Universitat Pompeu Fabra
