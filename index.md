@@ -6,11 +6,9 @@ title: S. Chris Zhang
 
 Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra
 
-Filosofia del Dret, Universitat Pompeu Fabra
-
-Ramon Trias Fargas, 25-27
-
-08005 Barcelona
+- Filosofia del Dret, Universitat Pompeu Fabra
+- Ramon Trias Fargas, 25-27
+- 08005 Barcelona
 
 <div id="webaddress">
 <a href="mailto:chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
