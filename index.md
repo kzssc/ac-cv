@@ -2,12 +2,12 @@
 layout: cv
 title: Sisheng Chris Zhang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sisheng Chris Zhang
+Doctoral Researcher of Political Philosophy at Universitat Pompeu Fabra
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
+| <a href="http://czhang.uk">My website page</a>
 </div>
 
 
