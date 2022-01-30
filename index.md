@@ -48,8 +48,7 @@ __Universitat Pompeu Fabra__
 `2016-2017`
 __University of Warwick__
 
-- MA Political and Legal Theory
-- *double degree with Universitat Pompeu Fabra*
+- MA Political and Legal Theory, double degree with Universitat Pompeu Fabra
 
 `2013-2016`
 __University of Essex__
