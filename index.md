@@ -37,13 +37,13 @@ Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher 
 __Universitat Pompeu Fabra__
 
 - PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
-- Supervisors: Drs [Iñigo González Ricoy](https://www.igonzalezricoy.com)(Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt)(UPF)
+- Supervisors: Drs [Iñigo González Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
 
 `2017-2018`
 __Universitat Pompeu Fabra__
 
 - MA Political Philosophy, “Suﬃciency: Distributive or Contributive?”
-- Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/)(Warwick) and [Prof Andrew Williams](https://www.icrea.cat/Web/ScientificStaff/Andrew-Williams-503)(ICREA-UPF)
+- Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/) (Warwick) and [Prof Andrew Williams](https://www.icrea.cat/Web/ScientificStaff/Andrew-Williams-503) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__
@@ -93,13 +93,13 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
-- "Family Justice"(https://www.demographyethicsandpublicpolicy.org/) project for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti)(ICREA-UPF)
+- "Family Justice"(https://www.demographyethicsandpublicpolicy.org/) project for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__, Coventry
 
 - Research Assistant
-- "The Ethics of Santa Claus" for [Prof Matthew Clayton](https://warwick.ac.uk/fac/soc/pais/people/clayton/)(Warwick) and [Dr Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/)(Warwick)
+- "The Ethics of Santa Claus" for [Prof Matthew Clayton](https://warwick.ac.uk/fac/soc/pais/people/clayton/) (Warwick) and [Dr Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick)
 
 
 
