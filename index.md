@@ -148,8 +148,9 @@ __“Speech and National Self-Determination”__
 University of Warwick MA Dissertation Conference
 
 __“Should there be a right to Euthanasia? A case against Velleman”__
-`May 2016`
 University of Essex Annual Government Student Conference
+`May 2016`
+
 
 ## Administration and Organisation
 `July 2021`
@@ -163,7 +164,7 @@ __Contemporary Political Theory, online__
 
 ## For General Public
 `2019`
-Seminar at 706 Guangzhou on Suﬃcientarianism and Distributive Justice in 2020(https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
+[Seminar at 706 Guangzhou on Suﬃcientarianism and Distributive Justice in 2020](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
 
 
 <!-- ### Footer
