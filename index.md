@@ -2,7 +2,7 @@
 layout: cv
 title: Sisheng Chris Zhang's CV
 ---
-# Isaac Newton
+# Sisheng Chris Zhang
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
