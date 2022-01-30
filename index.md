@@ -60,8 +60,7 @@ __University of Essex__
 `2020-2024`
 Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
 
-`2017`
-Scholarship for "Equality and Citizenship Summer School 2017", University of Rijeka 
+`2017` Scholarship for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Publications
@@ -112,15 +111,18 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Teaching assessment: 9.2/10
 
 ## Work in Progress and Presentations
+
 __“Post-Work and Self-Employment”__
 
 
 __“Meaningful Work as Public Goods”__
+
 - UPF Law and Philosophy PhD Seminar
 `June 2021`
 
 
 __"What is Distinctive about Contemporary Self-Employment?”__
+
 - UPF-UCLouvain Hoover Chair Workshop
 `April 2021`
 
