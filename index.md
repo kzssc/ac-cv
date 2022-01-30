@@ -62,7 +62,7 @@ __University of Essex__
 Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
 
 `2017` 
-Scholarship for "Equality and Citizenship Summer School 2017", University of Rijeka 
+Participatation grant for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Publications
@@ -92,7 +92,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
-- "Family Justice"(https://www.demographyethicsandpublicpolicy.org/) project for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti) (ICREA-UPF)
+- ["Family Justice"](https://www.demographyethicsandpublicpolicy.org/) project for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__, Coventry
@@ -136,6 +136,7 @@ __“Meaningful Work as Public Goods”__
 __"What is Distinctive about Contemporary Self-Employment?”__
 - UPF-UCLouvain Hoover Chair Workshop
 
+
 __Translation of an academic book and various academic articles into Chinese__
 
 
@@ -169,7 +170,7 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 
 `July 2021`
 __Conference Co-Organiser__, Universitat Pompeu Fabra
-- Justice at Work
+- "Justice at Work", [Justice at Work](https://www.upf.edu/web/justwork)
 
 `2021-`
 __Contemporary Political Theory__, online
