@@ -56,13 +56,6 @@ __University of Essex__, GB
 - BA(Hons) Philosophy, Politics and Economics
 
 
-## Awards
-
-`2020-2024`
-Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
-
-`2017` 
-Participatation grant for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Publications
@@ -113,6 +106,13 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 - Teaching assessment: 9.2/10
 
+## Awards
+
+`2020-2024`
+Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
+
+`2017` 
+Participatation grant for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Member of
