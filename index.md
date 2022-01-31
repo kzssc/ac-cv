@@ -174,7 +174,7 @@ __Conference Co-Organiser__, Universitat Pompeu Fabra
 - "Justice at Work", [Justice at Work](https://www.upf.edu/web/justwork)
 
 `2021-`
-__Contemporary Political Theory__, online
+[__Contemporary Political Theory__](http://cpt.czhang.uk), online
 - Cross-institution
 
 
