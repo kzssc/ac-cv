@@ -37,7 +37,7 @@ Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher 
 __Universitat Pompeu Fabra__, ES
 
 - PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
-- Supervisors: Drs [Iñigo González Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
+- Supervisors: Drs [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
 
 `2017-2018`
 __Universitat Pompeu Fabra__, ES
