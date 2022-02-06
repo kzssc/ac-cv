@@ -25,11 +25,17 @@ Standing on the shoulders of giants
 
 ### Area of interests 
 
-Normative and Analytic Contemporary Political Theory, Ethics
+Normative and Analytic Contemporary Political Theory
 
-### Research interests
+Ethics
 
-Philosophy of Work, Self-Employment, Distributive Justice, Philosophy of Higher Education
+Distributive Justice
+
+Philosophy of Work
+
+Self-Employment
+
+Philosophy of Higher Education
 
 ## Education
 
