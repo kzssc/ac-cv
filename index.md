@@ -161,7 +161,7 @@ __[“If You're an Egalitarian, How Come You Like Lotteries?”](https://www.isu
 
 `February 2018`
 __Commentator for Robert Huseby (Oslo), “Sufficiency and the Threshold Question”__
-- Suﬃciency: Never Enough
+- [Suﬃciency: Never Enough](https://www.upf.edu/web/dret/inici/-/asset_publisher/UzFOsEsEfEfx/content/id/146449794/maximized#.YgA19i8w1B1)
 - Universitat Pompeu Fabra
 
 `May 2017`
@@ -177,7 +177,7 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 
 `July 2021`
 __Conference Co-Organiser__, Universitat Pompeu Fabra
-- "Justice at Work", [Justice at Work](https://www.upf.edu/web/justwork)
+- [Labor Justice and Transformation of Work](http://transformationofwork.weebly.com), [Justice at Work](https://www.upf.edu/web/justwork)
 
 `2021-`
 [__Contemporary Political Theory__](http://cpt.czhang.uk), online
