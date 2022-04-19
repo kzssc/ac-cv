@@ -39,7 +39,7 @@ Philosophy of Higher Education
 
 ## Education
 
-`2020-now`
+`2021-now`
 __Universitat Pompeu Fabra__, ES
 
 - PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
