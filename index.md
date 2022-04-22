@@ -103,7 +103,7 @@ __University of Warwick__, Coventry
 
 ## Teaching
 
-`2021 T1`
+`2021 T2`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 - Teaching assessment: 9.3/10
