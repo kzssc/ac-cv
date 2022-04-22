@@ -121,7 +121,7 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 
 ## Awards
 
-`2020-2024`
+`2021-2025`
 Full funding for PhD / FPI funding from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
 
 `2017` 
