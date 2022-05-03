@@ -39,7 +39,7 @@ Philosophy of Higher Education
 
 ## Education
 
-`2021-now`
+`2021-2025`
 __Universitat Pompeu Fabra__, ES
 
 - PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
@@ -87,7 +87,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Employment
 
-`2021-now`
+`2021-2022`
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
