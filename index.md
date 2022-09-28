@@ -201,6 +201,10 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 
 ## Administration and Organisation
 
+`July 2022`
+__Conference Co-Organiser__, University of Oxford
+- Labor Market and Workplace Justice Workshop, [Justice at Work](https://www.upf.edu/web/justwork)
+
 `July 2021`
 __Conference Co-Organiser__, Universitat Pompeu Fabra
 - [Labor Justice and Transformation of Work](http://transformationofwork.weebly.com), [Justice at Work](https://www.upf.edu/web/justwork)
