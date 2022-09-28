@@ -135,6 +135,9 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 - Teaching assessment: 9.2/10
 
+`2022`
+__Received "Excellent" for Initial Training in University Teaching Programme (FIDU)__, Universitat pompeu Fabra
+
 ## Awards
 
 `2021-2025`
