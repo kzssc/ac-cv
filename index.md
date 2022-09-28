@@ -209,7 +209,7 @@ __Conference Co-Organiser__, Universitat Pompeu Fabra
 - Cross-institution
 
 
-## For General Public
+## Outreaching
 `Summer 2020`
 - [Seminar on Suﬃcientarianism and Distributive Justice](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
 - 706 Guangzhou, Guangzhou, China
