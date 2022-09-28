@@ -131,7 +131,7 @@ __History of Political Philosophy__, Universitat Pompeu Fabra
 - Teaching assessment: N/A
 
 `Certificate`
-- Received "One of the Best" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
+- Received "Very Satisfactory" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
 
 ## Awards
 
