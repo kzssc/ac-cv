@@ -130,8 +130,8 @@ __History of Political Philosophy__, Universitat Pompeu Fabra
 `2021/22 T1`
 - Teaching assessment: N/A
 
-`2022`
-- Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
+`Certificate`
+- Received "One of the Best" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
 
 ## Awards
 
