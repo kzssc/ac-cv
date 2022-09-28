@@ -136,7 +136,7 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Teaching assessment: 9.2/10
 
 `2022`
-__Received "Excellent" for Initial Training in University Teaching Programme (FIDU)__, Universitat pompeu Fabra
+__Received "Excellent" for Initial Training in University Teaching Programme (FIDU)__, Universitat Pompeu Fabra
 
 ## Awards
 
