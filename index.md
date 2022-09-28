@@ -109,10 +109,13 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 
 `2022/23 T2`
 - Teaching assessment: N/A
+
 `2022/23 T1`
 - Teaching assessment: N/A
+
 `2021/22 T2`
 - Teaching assessment: 9.3/10
+
 `2021/22 T1`
 - Teaching assessment: 9.2/10
 
@@ -123,12 +126,12 @@ __History of Political Philosophy__, Universitat Pompeu Fabra
 
 `2022/23 T1`
 - Teaching assessment: N/A
+
 `2021/22 T1`
 - Teaching assessment: N/A
 
-
 `2022`
-__Received "Excellent" for Initial Training in University Teaching Programme (FIDU)__, Universitat Pompeu Fabra
+- Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
 
 ## Awards
 
