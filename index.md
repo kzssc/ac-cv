@@ -11,7 +11,7 @@ Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu F
 - 08005 Barcelona
 
 <div id="webaddress">
-<a href="mailto:chris.zhangATupf.edug">chris.zhang(at)upf.edu</a>
+<a href="mailto:chris.zhangATupf.edu">chris.zhang(at)upf.edu</a>
 | <a href="http://czhang.uk">My website</a>
 | <a href="http://sishengzhang.com">中文主页</a> 
 </div>
@@ -108,10 +108,10 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 
 `2022/23 T2`
-- Teaching assessment: N/A
+- Teaching assessment: -
 
 `2022/23 T1`
-- Teaching assessment: N/A
+- Teaching assessment: -
 
 `2021/22 T2`
 - Teaching assessment: 9.3/10
@@ -131,7 +131,7 @@ __History of Political Philosophy__, Universitat Pompeu Fabra
 - Teaching assessment: N/A
 
 `Certificate`
-- Received "Very Satisfactory" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
+- Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
 
 ## Awards
 
@@ -196,25 +196,29 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 
 ## Administration and Organisation
 
+`October 2022`
+__[Republicanism and Labor Justice](https://sites.google.com/view/republicanism-labor-justice)__, Universitat Pompeu Fabra & Universitat de Barcelona
+- Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
+
 `July 2022`
-__Conference Co-Organiser__, University of Oxford
-- Labor Market and Workplace Justice Workshop, [Justice at Work](https://www.upf.edu/web/justwork)
+__Labor Market and Workplace Justice Workshop__, University of Oxford
+- Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
 `July 2021`
-__Conference Co-Organiser__, Universitat Pompeu Fabra
-- [Labor Justice and Transformation of Work](http://transformationofwork.weebly.com), [Justice at Work](https://www.upf.edu/web/justwork)
+__[Labor Justice and Transformation of Work](http://transformationofwork.weebly.com)__, Universitat Pompeu Fabra
+- Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
 `2021-`
-[__Contemporary Political Theory__](http://cpt.czhang.uk), online
-- Cross-institution
+[__Contemporary Political Theory Reading Group__](http://cpt.czhang.uk), online
+- Convenor, Cross-institution
 
 
 ## Outreaching
 `Summer 2020`
-- [Seminar on Suﬃcientarianism and Distributive Justice](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
+- [Seminar on Suﬃcientarianism and Distributive Justice (in Chinese)](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
 - 706 Guangzhou, Guangzhou, China
 
 
-Last updated: Wednesday, 28 September 2022
+Last updated: Thursday, 20 October 2022
 
 
