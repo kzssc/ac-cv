@@ -91,7 +91,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
-- ["Family Justice"](https://www.demographyethicsandpublicpolicy.org/) for [Prof Serena Olsaretti](https://www.upf.edu/web/filosofiapolitica/entry/-/-/76891/adscripcion/maria-serena-olsaretti) (ICREA-UPF)
+- ["Family Justice"](https://www.demographyethicsandpublicpolicy.org/) for [Prof Serena Olsaretti](https://serenaolsaretti.weebly.com) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__, Coventry
