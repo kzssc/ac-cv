@@ -197,7 +197,7 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 ## Administration and Organisation
 
 `2022-`
-__[UPF Law & Philsophy PhD Seminar]__(https://www.upf.edu/web/lphi/phd-seminars#.Y1K7GC8RpB0), Universitat Pompeu Fabra
+__[UPF Law & Philsophy PhD Seminar](https://www.upf.edu/web/lphi/phd-seminars#.Y1K7GC8RpB0)__, Universitat Pompeu Fabra
 - Co-Organiser, Law & Philsophy, UPF
 
 `October 2022`
