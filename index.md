@@ -133,6 +133,8 @@ Participatation grant for "Equality and Citizenship Summer School 2017", Univers
 
 ## Work in Progress and Presentations
 
+__“What Special Duties do the Self-Employed Owe to the Society?”__
+
 __“Post-Work and Self-Employment”__
 
 
