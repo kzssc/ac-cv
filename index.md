@@ -45,6 +45,12 @@ __Universitat Pompeu Fabra__, ES
 - PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
 - Supervisors: Drs [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
 
+`2023-2023`
+__Concordia University__, CA
+
+- Visiting Student, Centre for Social Justice and Department of Philosophy
+- Supervisor: Prof [Pablo Gilabert](https://www.concordia.ca/artsci/philosophy/faculty.html?fpid=pablo-gilabert) (Concordia) 
+
 `2017-2018`
 __Universitat Pompeu Fabra__, ES
 
