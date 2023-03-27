@@ -212,6 +212,5 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Last updated: Monday, 27 March 2023
-
+Monday, 27 March 2023
 
