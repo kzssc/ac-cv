@@ -48,7 +48,7 @@ __Universitat Pompeu Fabra__, ES
 `2023-2023`
 __Concordia University__, CA
 
-- Visiting Student, Centre for Social Justice and Department of Philosophy
+- Visiting Research Student, Centre for Social Justice and Department of Philosophy
 - Supervisor: [Prof Pablo Gilabert](https://www.concordia.ca/artsci/philosophy/faculty.html?fpid=pablo-gilabert) (Concordia) 
 
 `2017-2018`
