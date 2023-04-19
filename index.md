@@ -153,8 +153,6 @@ __“Meaningful Work as Public Goods”__
 __"What is Distinctive about Contemporary Self-Employment?”__
 - UPF-UCLouvain Hoover Chair Workshop
 
-`Ongoing`
-__Translation of an academic book and various academic articles into Chinese__
 
 
 ## Other Presentations
