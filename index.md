@@ -48,7 +48,7 @@ __Universitat Pompeu Fabra__, ES
 `2023-2023`
 __Concordia University__, CA
 
-- Visiting Research Student, Centre for Social Justice and Department of Philosophy
+- [Visiting Research Student](https://www.concordia.ca/artsci/research/social-justice-centre/team/fellows.html), Centre for Social Justice and Department of Philosophy
 - Supervisor: [Prof Pablo Gilabert](https://www.concordia.ca/artsci/philosophy/faculty.html?fpid=pablo-gilabert) (Concordia) 
 
 `2017-2018`
@@ -210,5 +210,5 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Monday, 27 March 2023
+Wednesday, 3 May 2023
 
