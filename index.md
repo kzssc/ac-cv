@@ -139,6 +139,8 @@ Participatation grant for "Equality and Citizenship Summer School 2017", Univers
 
 ## Work in Progress and Presentations
 
+__A paper on an individualist conception of social contribution__
+
 __“What Special Duties do the Self-Employed Owe to the Society?”__
 
 __“Post-Work and Self-Employment”__
