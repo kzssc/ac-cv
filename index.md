@@ -109,11 +109,11 @@ __University of Warwick__, Coventry
 
 ## Teaching
 
-`2021-`
+`2021, 2022, 2023`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
 
-`2021-`
+`2021, 2022, 2023`
 __History of Political Philosophy__, Universitat Pompeu Fabra
 - Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso)
 
@@ -144,7 +144,6 @@ __A paper on an individualist conception of social contribution__
 __“What Special Duties do the Self-Employed Owe to the Society?”__
 
 __“Post-Work and Self-Employment”__
-
 
 __“Meaningful Work as Public Goods”__
 
@@ -213,4 +212,5 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 
 
 Wednesday, 3 May 2023
+
 
