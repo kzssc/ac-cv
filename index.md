@@ -139,6 +139,11 @@ Participatation grant for "Equality and Citizenship Summer School 2017", Univers
 
 ## Work in Progress and Presentations
 
+`October 2023`
+__“Meaningful Work: a Double-Sided Coin”__
+- UPF Law and Philosophy PhD Seminar 
+
+
 __A paper on an individualist conception of social contribution__
 
 __“What Special Duties do the Self-Employed Owe to the Society?”__
@@ -157,6 +162,7 @@ __"What is Distinctive about Contemporary Self-Employment?”__
 
 
 ## Other Presentations
+
 
 `June 2021`
 __“Justice and Self-Employment”__
