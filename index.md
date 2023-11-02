@@ -217,6 +217,5 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Wednesday, 3 May 2023
-
+Thursday, 2 November 2023
 
