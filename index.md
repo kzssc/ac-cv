@@ -140,7 +140,7 @@ Participatation grant for "Equality and Citizenship Summer School 2017", Univers
 ## Work in Progress and Presentations
 
 `October 2023`
-__“Meaningful Work: a Double-Sided Coin”__
+__[“Meaningful Work: a Double-Sided Coin”](https://www.upf.edu/web/dret/inici/-/asset_publisher/lhqR7nbA9YrC/content/seminari-meaningful-work-a-double-sided-coin-19.10.23-/maximized)__
 - UPF Law and Philosophy PhD Seminar 
 
 
