@@ -115,7 +115,7 @@ __Justice and Individual Rights__, Universitat Pompeu Fabra
 
 `2021, 2022, 2023`
 __History of Political Philosophy__, Universitat Pompeu Fabra
-- Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso)
+- Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso) and since 2023 [Dr Eze Paez](https://ezepaez.com)
 
 `Certificate`
 - Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
