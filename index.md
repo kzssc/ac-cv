@@ -123,7 +123,7 @@ __History of Political Philosophy__, Universitat Pompeu Fabra
 ## Funding 
 
 `2021-2025`
-Full funding for PhD / FPI scholarship from Spanish Ministry of Science and Innovation, PGC2018-095917-A-I00
+Full funding for PhD / FPI scholarship from Spanish Ministry of Science, Innovation and Universities, PGC2018-095917-A-I00
 
 `2017` 
 Participatation grant for "Equality and Citizenship Summer School 2017", University of Rijeka 
