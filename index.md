@@ -42,7 +42,7 @@ Philosophy of Higher Education
 `2021-2025`
 __Universitat Pompeu Fabra__, ES
 
-- PhD Political Philosophy, “Justice, Autonomy, and Self-Employment”
+- Ph.D Law / Political Philosophy, “Justice, Autonomy, and Self-Employment”
 - Supervisors: Drs [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
 
 `2023-2023`
@@ -221,5 +221,4 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Thursday, 2 November 2023
-
+Wednesday, 21 February 2024
