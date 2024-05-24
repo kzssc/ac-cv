@@ -11,7 +11,7 @@ Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu F
 - 08005 Barcelona
 
 <div id="webaddress">
-<a href="mailto:chris.zhangATupf.edu">chris.zhang(at)upf.edu</a>
+<a href="mailto:academicATczhang.uk">academic(at)czhang.uk</a>
 | <a href="http://czhang.uk">My website</a>
 | <a href="http://cn.czhang.uk">中文主页</a> 
 </div>
