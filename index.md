@@ -23,7 +23,7 @@ Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu F
 Standing on the shoulders of giants
 -->
 
-### Area of interests 
+### Area of Interests 
 
 Normative and Analytic Contemporary Political Theory
 
@@ -45,7 +45,7 @@ __Universitat Pompeu Fabra__, ES
 - Ph.D Law / Political Philosophy, “Justice, Autonomy, and Self-Employment”
 - Supervisors: Drs [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
 
-`2023-2023`
+`2023 Q2`
 __Concordia University__, CA
 
 - [Visiting Research Student](https://www.concordia.ca/artsci/research/social-justice-centre/team/fellows.html), Centre for Social Justice and Department of Philosophy
@@ -194,7 +194,7 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 
 ## Administration and Organisation
 
-`2022-`
+`2022-2024`
 __[UPF Law & Philosophy PhD Seminar](https://www.upf.edu/web/lphi/phd-seminars#.Y1K7GC8RpB0)__, Universitat Pompeu Fabra
 - Co-Organiser, [Law & Philosophy](https://www.upf.edu/web/lphi)
 
