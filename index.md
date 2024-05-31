@@ -109,16 +109,13 @@ __University of Warwick__, Coventry
 
 
 ## Teaching
-
+`2021-2024`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
-- Years taught: 2021, 2022, 2023
 
-  
-`2021, 2022, 2023`
+`2021-2024`
 __History of Political Philosophy__, Universitat Pompeu Fabra
 - Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso) and since 2023 [Dr Eze Paez](https://ezepaez.com)
-- Years taught: 2021, 2022, 2023
 
 `Certificate`
 - Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
