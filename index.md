@@ -200,7 +200,7 @@ __[UPF Law & Philosophy PhD Seminar](https://www.upf.edu/web/lphi/phd-seminars#.
 
 `2022-Current`
 __UPF Law & Philosophy Mailing List__, Universitat Pompeu Fabra
-- Creator and Manager
+- Creator and Manager, [Law & Philosophy](https://www.upf.edu/web/lphi)
 
 `October 2022`
 __[Republicanism and Labor Justice](https://sites.google.com/view/republicanism-labor-justice)__, Universitat Pompeu Fabra & Universitat de Barcelona
