@@ -3,7 +3,7 @@ layout: cv
 title: S. Chris Zhang 
 ---
 
-## Sisheng Chris ZHANG
+# Sisheng Chris ZHANG
 
 Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra (UPF)
 
