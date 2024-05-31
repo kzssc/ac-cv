@@ -220,6 +220,7 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - [Seminar on Suﬃcientarianism and Distributive Justice (in Chinese)](https://mp.weixin.qq.com/s/5xxvQSQIhDXUpSA72_xzdA)
 - 706 Guangzhou, Guangzhou, China
 
+---
 
 - [Reference](https://ref.czhang.uk)
 - Last Update: Thursday 30 May 2024
