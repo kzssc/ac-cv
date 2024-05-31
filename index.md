@@ -2,11 +2,12 @@
 layout: cv
 title: S. Chris Zhang 
 ---
-# Sisheng Chris Zhang
+
+## Sisheng Chris ZHANG
 
 Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra (UPF)
 
-- Filosofia del Dret, Universitat Pompeu Fabra
+- Roger de Llúria (campus de la Ciutadella), Universitat Pompeu Fabra
 - Ramon Trias Fargas, 25-27
 - 08005 Barcelona
 
@@ -40,30 +41,30 @@ Philosophy of Higher Education
 ## Education
 
 `2021-2025`
-__Universitat Pompeu Fabra__, ES
+__Universitat Pompeu Fabra__, Spain
 
 - Ph.D Law / Political Philosophy, “Justice, Autonomy, and Self-Employment”
 - Supervisors: Drs [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
 
 `2023 Q2`
-__Concordia University__, CA
+__Concordia University__, Canada
 
 - [Visiting Researcher](https://www.concordia.ca/artsci/research/social-justice-centre/team/fellows.html#2022_23), Centre for Social Justice and Department of Philosophy
 - Supervisor: [Prof Pablo Gilabert](https://www.concordia.ca/artsci/philosophy/faculty.html?fpid=pablo-gilabert) (Concordia) 
 
 `2017-2018`
-__Universitat Pompeu Fabra__, ES
+__Universitat Pompeu Fabra__, Spain
 
 - MA Political Philosophy, “Suﬃciency: Distributive or Contributive?”
 - Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/) (Warwick) and [Prof Andrew Williams](https://www.icrea.cat/Web/ScientificStaff/Andrew-Williams-503) (ICREA-UPF)
 
 `2016-2017`
-__University of Warwick__, GB
+__University of Warwick__, United Kingdom
 
 - MA Political and Legal Theory, double degree with Universitat Pompeu Fabra
 
 `2013-2016`
-__University of Essex__, GB
+__University of Essex__, United Kingdom
 
 - BA(Hons) Philosophy, Politics and Economics
 
@@ -109,13 +110,15 @@ __University of Warwick__, Coventry
 
 ## Teaching
 
-`2021, 2022, 2023`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
 - Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
+- Years taught: 2021, 2022, 2023
 
+  
 `2021, 2022, 2023`
 __History of Political Philosophy__, Universitat Pompeu Fabra
 - Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso) and since 2023 [Dr Eze Paez](https://ezepaez.com)
+- Years taught: 2021, 2022, 2023
 
 `Certificate`
 - Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
@@ -126,7 +129,7 @@ __History of Political Philosophy__, Universitat Pompeu Fabra
 Full funding for PhD / FPI scholarship from Spanish Ministry of Science, Innovation and Universities, PGC2018-095917-A-I00
 
 `2017` 
-Participatation grant for "Equality and Citizenship Summer School 2017", University of Rijeka 
+Participation grant for "Equality and Citizenship Summer School 2017", University of Rijeka 
 
 <!--
 ## Member of
