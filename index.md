@@ -210,7 +210,7 @@ __Labor Market and Workplace Justice Workshop__, University of Oxford
 __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.com)__, Universitat Pompeu Fabra
 - Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
-`2021-`
+`2021-2024`
 [__Contemporary Political Theory Reading Group__](http://cpt.czhang.uk), online
 - Convenor, Cross-institution
 
