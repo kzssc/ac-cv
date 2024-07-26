@@ -218,6 +218,10 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 [__Contemporary Political Theory Reading Group__](http://cpt.czhang.uk), online
 - Convenor, Cross-institution
 
+`Current`
+[__Barcelona Institute of Analytic Philosophy - BIAP__](https://www.ub.edu/biap/student-members/), Universitat de Barcelona
+- Member
+
 
 ## Outreaching
 `Summer 2020`
