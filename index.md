@@ -139,6 +139,10 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 ## Work in Progress and Presentations
 
+`October 2024`
+__"How, if any, is Meaningful about Self-employment?"__
+- UPF Law PhD Jornada Conference
+
 `February 2024`
 __"Is Well Done Enough?: An Analysis on Meaningful Work"__
 - Warwick Graduate Conference in Political and Legal Theory 2024
