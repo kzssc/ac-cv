@@ -141,7 +141,7 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 `October 2024`
 __"How, if any, is Meaningful about Self-employment?"__
-- UPF Law PhD Jornada Conference
+- UPF Law and Philosophy PhD Seminar 
 
 `February 2024`
 __"Is Well Done Enough?: An Analysis on Meaningful Work"__
