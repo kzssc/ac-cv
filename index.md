@@ -140,7 +140,7 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 ## Work in Progress and Presentations
 
 `October 2024`
-__"How, if any, is Meaningful about Self-employment?"__
+__"How is Self-Employment Meaningful?"__
 - UPF Law and Philosophy PhD Seminar 
 
 `February 2024`
