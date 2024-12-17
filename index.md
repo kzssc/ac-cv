@@ -159,9 +159,9 @@ __“Post-Work and Self-Employment”__
 
 __“Meaningful Work as Public Goods”__
 
-__two papers on sufficientarianism__
+__Two papers on sufficientarianism__
 
-__a paper on methodology__
+__A paper on methodology__
 
 `June 2021`
 - UPF Law PhD Jornada Conference
