@@ -159,7 +159,7 @@ __“Post-Work and Self-Employment”__
 
 __“Meaningful Work as Public Goods”__
 
-Two papers on sufficientarianism
+Two papers on sufficientarianism: 1) a critical reply, and 2) on Lottery
 
 A paper on methodology
 
