@@ -159,7 +159,7 @@ __“Post-Work and Self-Employment”__
 
 __“Meaningful Work as Public Goods”__
 
-Two papers on sufficientarianism: 1) a critical reply, and 2) on Lottery
+Two papers on Sufficientarianism: 1) a critical reply, and 2) on Lottery
 
 A paper on methodology
 
@@ -237,4 +237,4 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Document Last Update: Thursday 30 May 2024
+Document Last Update: Thursday, January 9, 2025
