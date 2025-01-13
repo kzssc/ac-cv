@@ -111,11 +111,11 @@ __University of Warwick__, Coventry
 ## Teaching
 `2021-2024`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
-- Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt)
+- Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt),and since 2024 [Dr Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
 
 `2021-2024`
 __History of Political Philosophy__, Universitat Pompeu Fabra
-- Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso) and since 2023 [Dr Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
+- Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso), and since 2023 [Dr Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
 
 `Certificate`
 - Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
@@ -237,4 +237,4 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Document Last Update: Thursday, January 9, 2025
+Document Last Update: Monday, January 13, 2025
