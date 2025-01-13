@@ -151,6 +151,15 @@ __"Is Well Done Enough?: An Analysis on Meaningful Work"__
 __[“Meaningful Work: a Double-Sided Coin”](https://www.upf.edu/web/dret/inici/-/asset_publisher/lhqR7nbA9YrC/content/seminari-meaningful-work-a-double-sided-coin-19.10.23-/maximized)__
 - UPF Law and Philosophy PhD Seminar 
 
+
+`June 2021`
+__"Meaningful Work as Reciprocity"__
+- UPF Law PhD Jornada Conference
+
+`April 2021`
+__"What is Distinctive about Contemporary Self-Employment?”__
+- UPF-UCLouvain Hoover Chair Workshop
+
 A paper on an individualist conception of social contribution
 
 __“What Special Duties do the Self-Employed Owe to the Society?”__
@@ -162,15 +171,6 @@ __“Meaningful Work as a Public Good”__
 Two papers on Sufficientarianism: 1) a critical reply, and 2) on Lottery
 
 A paper on methodology, "on Itemisation"
-
-`June 2021`
-__"Meaningful Work as Reciprocity"__
-- UPF Law PhD Jornada Conference
-
-`April 2021`
-__"What is Distinctive about Contemporary Self-Employment?”__
-- UPF-UCLouvain Hoover Chair Workshop
-
 
 
 ## Other Presentations
