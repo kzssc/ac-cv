@@ -111,7 +111,7 @@ __University of Warwick__, Coventry
 ## Teaching
 `2021-2024`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
-- Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt),and since 2024 [Dr Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
+- Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt), and since 2024 [Dr Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
 
 `2021-2024`
 __History of Political Philosophy__, Universitat Pompeu Fabra
