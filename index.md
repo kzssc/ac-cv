@@ -161,7 +161,7 @@ __“Meaningful Work as a Public Good”__
 
 Two papers on Sufficientarianism: 1) a critical reply, and 2) on Lottery
 
-A paper on methodology
+A paper on methodology, "on Itemisation"
 
 `June 2021`
 __"Meaningful Work as Reciprocity"__
