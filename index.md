@@ -157,7 +157,7 @@ __“What Special Duties do the Self-Employed Owe to the Society?”__
 
 __“Post-Work and Self-Employment”__
 
-__“Meaningful Work as Public Goods”__
+__“Meaningful Work as a Public Good”__
 
 Two papers on Sufficientarianism: 1) a critical reply, and 2) on Lottery
 
