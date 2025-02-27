@@ -1,10 +1,8 @@
 ---
 layout: cv
-title: Sisheng Chris Zhang's CV
+title: 
 ---
-# Sisheng Chris Zhang
-Doctoral Researcher at Universitat Pompeu Fabra, Barcelona. 
-
+# 
 <div id="webaddress">
 <a href="chris.zhangATupf.edu">chris.zhang (AT) upf.edu</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My page</a>
