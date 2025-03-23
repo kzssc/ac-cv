@@ -172,6 +172,9 @@ Two papers on Sufficientarianism: 1) a critical reply, and 2) on Lottery
 
 A paper on methodology, "on Itemisation"
 
+A paper on the general philosophical framework of meaningful work
+
+
 
 ## Other Presentations
 
