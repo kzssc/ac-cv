@@ -56,7 +56,7 @@ __Concordia University__, Canada
 __Universitat Pompeu Fabra__, Spain
 
 - MA Political Philosophy, “Suﬃciency: Distributive or Contributive?”
-- Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/) (Warwick) and [Prof Andrew Williams](https://www.icrea.cat/Web/ScientificStaff/Andrew-Williams-503) (ICREA-UPF)
+- Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/) (Warwick) and [Prof Andrew Williams](https://www.icrea.cat/community/icreas/17634/andrew-williams/) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__, United Kingdom
@@ -139,6 +139,13 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 ## Work in Progress and Presentations
 
+
+`May 2025`
+__[“Autonomy and Meaningful Work: a Bridge Thesis”](https://www.upf.edu/web/lphi/home/-/asset_publisher/B8ZD0QMBzXVe/content/seminar-autonomy-and-meaningful-work-a-bridge-thesis-08.05.25-/6764143/maximized)__
+- UPF Law and Philosophy PhD Seminar 
+
+
+
 `October 2024`
 __"How is Self-Employment Meaningful?"__
 - UPF Law and Philosophy PhD Seminar 
@@ -171,9 +178,6 @@ __“Meaningful Work as a Public Good”__
 Two papers on Sufficientarianism: 1) a critical reply, and 2) on Lottery
 
 A paper on methodology, "on Itemisation"
-
-__“Autonomy and Meaningful Work: a Bridge Thesis”__
-
 
 
 
