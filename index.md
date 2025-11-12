@@ -235,6 +235,10 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - Convenor, Cross-institution
 
 `Current`
+[__The Political Philosophy of Work__](https://www.upf.edu/web/philwork/members), Universitat Pompeu Fabra
+- Member
+
+`Current`
 [__Barcelona Institute of Analytic Philosophy - BIAP__](https://biap.ub.edu/student-members/), Universitat de Barcelona
 - Member
 
