@@ -140,6 +140,12 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 ## Work in Progress and Presentations
 
 
+`Jan 2026`
+__[“The Fractured Collective”](https://www.rug.nl/filosofie/organization/news-and-events/events/2024/call-for-papers-sustainable-corporation-jan-2026)__
+- The Sustainable Corporation: How to Secure Value in a Competitive World, University of Groningen
+
+
+
 `May 2025`
 __[“Autonomy and Meaningful Work: a Bridge Thesis”](https://www.upf.edu/web/lphi/home/-/asset_publisher/B8ZD0QMBzXVe/content/seminar-autonomy-and-meaningful-work-a-bridge-thesis-08.05.25-/6764143/maximized)__
 - UPF Law and Philosophy PhD Seminar 
