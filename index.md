@@ -141,7 +141,7 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 
 `Jan 2026`
-__[“The Fractured Collective”](https://www.rug.nl/filosofie/organization/news-and-events/events/2024/call-for-papers-sustainable-corporation-jan-2026)__
+__[“The Fractured Collective”]__
 - The Sustainable Corporation: How to Secure Value in a Competitive World, University of Groningen
 
 
