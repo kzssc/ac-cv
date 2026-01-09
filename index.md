@@ -142,7 +142,7 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 `Jan 2026`
 __“The Fractured Collective”__
-- The Sustainable Corporation: How to Secure Value in a Competitive World, University of Groningen
+- [The Sustainable Corporation: How to Secure Value in a Competitive World](https://philevents.org/event/show/141158), University of Groningen
 
 
 
