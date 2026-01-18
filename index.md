@@ -218,7 +218,7 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 
 `2022-2024`
 __[UPF Law & Philosophy PhD Seminar](https://www.upf.edu/web/lphi/phd-seminars#.Y1K7GC8RpB0)__, Universitat Pompeu Fabra
-- Co-Organiser, [Law & Philosophy](https://www.upf.edu/web/lphi)
+- Co-Convenor, [Law & Philosophy](https://www.upf.edu/web/lphi)
 
 `2022-2024`
 __UPF Law & Philosophy Mailing List__, Universitat Pompeu Fabra
@@ -236,7 +236,7 @@ __Labor Market and Workplace Justice Workshop__, University of Oxford
 __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.com)__, Universitat Pompeu Fabra
 - Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
-`2021-2024`
+`Current`
 [__Contemporary Political Theory Reading Group__](http://cpt.czhang.uk), online
 - Convenor, Cross-institution
 
@@ -248,6 +248,9 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 [__Barcelona Institute of Analytic Philosophy - BIAP__](https://biap.ub.edu/student-members/), Universitat de Barcelona
 - Member
 
+`2021-2024`
+[__Justice at Work__](https://www.upf.edu/web/justwork), Universitat Pompeu Fabra
+- Member
 
 ## Outreaching
 `Summer 2020`
