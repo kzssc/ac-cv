@@ -145,11 +145,9 @@ __“The Fractured Collective”__
 - [The Sustainable Corporation: How to Secure Value in a Competitive World](https://philevents.org/event/show/141158), University of Groningen
 
 
-
 `May 2025`
 __[“Autonomy and Meaningful Work: a Bridge Thesis”](https://www.upf.edu/web/lphi/home/-/asset_publisher/B8ZD0QMBzXVe/content/seminar-autonomy-and-meaningful-work-a-bridge-thesis-08.05.25-/6764143/maximized)__
 - UPF Law and Philosophy PhD Seminar 
-
 
 
 `October 2024`
@@ -216,6 +214,23 @@ __“Should there be a right to Euthanasia? A case against Velleman”__
 
 ## Administration and Organisation
 
+
+`Current`
+[__Contemporary Political Theory Reading Group__](http://cpt.czhang.uk), online
+- Convenor, Cross-institution
+
+`Current`
+[__The Political Philosophy of Work__](https://www.upf.edu/web/philwork/members), Universitat Pompeu Fabra
+- Member
+
+`Current`
+[__Barcelona Institute of Analytic Philosophy - BIAP__](https://biap.ub.edu/student-members/), Universitat de Barcelona
+- Member
+
+`2021-2024`
+[__Justice at Work__](https://www.upf.edu/web/justwork), Universitat Pompeu Fabra
+- Member
+
 `2022-2024`
 __[UPF Law & Philosophy PhD Seminar](https://www.upf.edu/web/lphi/phd-seminars#.Y1K7GC8RpB0)__, Universitat Pompeu Fabra
 - Co-Convenor, [Law & Philosophy](https://www.upf.edu/web/lphi)
@@ -236,21 +251,7 @@ __Labor Market and Workplace Justice Workshop__, University of Oxford
 __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.com)__, Universitat Pompeu Fabra
 - Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
-`Current`
-[__Contemporary Political Theory Reading Group__](http://cpt.czhang.uk), online
-- Convenor, Cross-institution
 
-`Current`
-[__The Political Philosophy of Work__](https://www.upf.edu/web/philwork/members), Universitat Pompeu Fabra
-- Member
-
-`Current`
-[__Barcelona Institute of Analytic Philosophy - BIAP__](https://biap.ub.edu/student-members/), Universitat de Barcelona
-- Member
-
-`2021-2024`
-[__Justice at Work__](https://www.upf.edu/web/justwork), Universitat Pompeu Fabra
-- Member
 
 ## Outreaching
 `Summer 2020`
@@ -258,5 +259,5 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Document Last Update: Friday, 21 November 2025
+Document Last Update: Sunday, 18 January 2026
 
