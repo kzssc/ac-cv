@@ -142,7 +142,7 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 `Jul 2026`
 __“The Price of Freedom?”__
-- [Society of Applied Philosophy](https://www.appliedphil.org/society-for-applied-philosophy-annual-conference-2026/), University of Edinburgh
+- [Society of Applied Philosophy Annual Conference 2026](https://www.appliedphil.org/society-for-applied-philosophy-annual-conference-2026/), University of Edinburgh
 
 `Apr 2026`
 __“The Unsupported Self”__
