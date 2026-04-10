@@ -139,13 +139,13 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 ## Work in Progress and Presentations
 
-
-`Jul 2026`
+<!--- `Jul 2026`
 __“The Price of Freedom?”__
 - [Society of Applied Philosophy Annual Conference 2026](https://www.appliedphil.org/society-for-applied-philosophy-annual-conference-2026/), University of Edinburgh
+ --->
 
 `Apr 2026`
-__“The Unsupported Self”__
+__“The Inversion of Meaningful Work”__
 - [21st Annual Doctoral Conference 2026](https://dsps.ceu.edu/21st-annual-doctoral-conference-2026), Central European University
 
 
