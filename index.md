@@ -44,20 +44,20 @@ Philosophy of Higher Education
 __Universitat Pompeu Fabra__, Spain
 
 - Ph.D Law / Political Philosophy, “Justice, Autonomy, and Self-Employment”
-- Supervisors: Drs [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
-- Examiners: Drs [Anca Gheaus](https://people.ceu.edu/anca_gheaus) (Central European), [Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick), and [Pablo Scotto](https://sira.ub.edu/static/fitxes/Dret.html?id=pablo.scotto.benito.ub.edu&lang=en) (Barcelona). 
+- Supervisors:  [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
+- Examiners:  [Anca Gheaus](https://people.ceu.edu/anca_gheaus) (Central European), [Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick), and [Pablo Scotto](https://sira.ub.edu/static/fitxes/Dret.html?id=pablo.scotto.benito.ub.edu&lang=en) (Barcelona). 
 
 `2023 Q2`
 __Concordia University__, Canada
 
 - [Visiting Researcher](https://www.concordia.ca/artsci/research/social-justice-centre/team/fellows.html#2022_23), Centre for Social Justice and Department of Philosophy
-- Supervisor: [Prof Pablo Gilabert](https://www.concordia.ca/artsci/philosophy/faculty.html?fpid=pablo-gilabert) (Concordia) 
+- Supervisor: [Pablo Gilabert](https://www.concordia.ca/artsci/philosophy/faculty.html?fpid=pablo-gilabert) (Concordia) 
 
 `2017-2018`
 __Universitat Pompeu Fabra__, Spain
 
 - MA Political Philosophy, “Suﬃciency: Distributive or Contributive?”
-- Supervisors: [Dr Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/) (Warwick) and [Prof Andrew Williams](https://www.icrea.cat/community/icreas/17634/andrew-williams/) (ICREA-UPF)
+- Supervisors: [Edward Page](https://warwick.ac.uk/fac/soc/pais/people/page/) (Warwick) and [Andrew Williams](https://www.icrea.cat/community/icreas/17634/andrew-williams/) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__, United Kingdom
@@ -99,24 +99,24 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Universitat Pompeu Fabra__, Barcelona
 
 - Research Assistant
-- ["Family Justice"](https://www.demographyethicsandpublicpolicy.org/) for [Prof Serena Olsaretti](https://serenaolsaretti.weebly.com) (ICREA-UPF)
+- ["Family Justice"](https://www.demographyethicsandpublicpolicy.org/) for [Serena Olsaretti](https://serenaolsaretti.weebly.com) (ICREA-UPF)
 
 `2016-2017`
 __University of Warwick__, Coventry
 
 - Research Assistant
-- "The Ethics of Santa Claus" for [Prof Matthew Clayton](https://warwick.ac.uk/fac/soc/pais/people/clayton/) (Warwick) and [Dr Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick)
+- "The Ethics of Santa Claus" for [ Matthew Clayton](https://warwick.ac.uk/fac/soc/pais/people/clayton/) (Warwick) and [Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick)
 
 
 
 ## Teaching
 `2021-2024`
 __Justice and Individual Rights__, Universitat Pompeu Fabra
-- Module leader: [Dr Jahel Queralt](https://www.upf.edu/web/jahel-queralt), and since 2024 [Dr Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
+- Module leader: [Jahel Queralt](https://www.upf.edu/web/jahel-queralt), and since 2024 [Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
 
 `2021-2024`
 __History of Political Philosophy__, Universitat Pompeu Fabra
-- Module leader: [Prof Josep-Juan Moreso](https://www.upf.edu/web/moreso), and since 2023 [Dr Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
+- Module leader: [Josep-Juan Moreso](https://www.upf.edu/web/moreso), and since 2023 [Eze Paez](https://www.upf.edu/web/lphi/postdocs/-/asset_publisher/AiuDZmmDVM2J/content/paez-eze/maximized)
 
 `Certificate`
 - Received "Excellent" for Initial Training in University Teaching Programme (FIDU), Universitat Pompeu Fabra
