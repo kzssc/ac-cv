@@ -5,7 +5,7 @@ title: S. Chris Zhang
 
 # Sisheng Chris ZHANG
 
-Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra (UPF)
+FPI Fellow of Political Philosophy at Universitat Pompeu Fabra (UPF)
 
 - Roger de Llúria (campus de la Ciutadella), Universitat Pompeu Fabra
 - Ramon Trias Fargas, 25-27
