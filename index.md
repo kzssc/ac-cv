@@ -95,6 +95,13 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Employment
 
+`TBC 2027`
+__Université Catholique de Louvain__, Belgium
+
+- Fellow
+- [Hoover Chair of Economic and Social Ethics](https://www.uclouvain.be/fr/hoover/fellows-et-visiteurs) 
+
+
 `2021-2022`
 __Universitat Pompeu Fabra__, Barcelona
 
