@@ -152,6 +152,11 @@ __“The Price of Freedom?”__
 - [Society of Applied Philosophy Annual Conference 2026](https://www.appliedphil.org/society-for-applied-philosophy-annual-conference-2026/), University of Edinburgh
  --->
 
+ 
+`Oct 2026`
+__“Self-Employment and Relations of Occupational Inferiority”__
+- [The 3rd Workshop of "Frontiers of Ethics and Political Philosophy](https://philevents.org/event/show/151453), Zhejiang University
+
 `Apr 2026`
 __“The Inversion of Meaningful Work”__
 - [21st Annual Doctoral Conference 2026](https://dsps.ceu.edu/21st-annual-doctoral-conference-2026), Central European University
