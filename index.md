@@ -169,33 +169,40 @@ __“The Inversion of Meaningful Work”__
 
 
 __“The Fractured Collective”__
+
 `Jan 2026` [The Sustainable Corporation: How to Secure Value in a Competitive World](https://philevents.org/event/show/141158), University of Groningen
 
 
 
 __[“Autonomy and Meaningful Work: a Bridge Thesis”](https://www.upf.edu/web/lphi/home/-/asset_publisher/B8ZD0QMBzXVe/content/seminar-autonomy-and-meaningful-work-a-bridge-thesis-08.05.25-/6764143/maximized)__
+
 `May 2025` UPF Law and Philosophy PhD Seminar 
 
 
 
 __"How is Self-Employment Meaningful?"__
+
 `October 2024` UPF Law and Philosophy PhD Seminar 
 
 
 __"Is Well Done Enough?: An Analysis on Meaningful Work"__
+
 `February 2024` Warwick Graduate Conference in Political and Legal Theory 2024
 
 
 __[“Meaningful Work: a Double-Sided Coin”](https://www.upf.edu/web/dret/inici/-/asset_publisher/lhqR7nbA9YrC/content/seminari-meaningful-work-a-double-sided-coin-19.10.23-/maximized)__
+
 `October 2023` UPF Law and Philosophy PhD Seminar 
 
 
 
 __"Meaningful Work as Reciprocity"__
+
 `June 2021` UPF Law PhD Jornada Conference
 
 
 __"What is Distinctive about Contemporary Self-Employment?”__
+
 `April 2021` UPF-UCLouvain Hoover Chair Workshop
 
 A paper on an individualist conception of social contribution
