@@ -153,9 +153,10 @@ __“The Price of Freedom?”__
  --->
 
  
-`Oct 2026`
+
 __“Self-Employment and Relations of Occupational Inferiority”__
-- [The 3rd Workshop of "Frontiers of Ethics and Political Philosophy"](https://philevents.org/event/show/151453), Zhejiang University
+
+`Oct 2026` [The 3rd Workshop of "Frontiers of Ethics and Political Philosophy"](https://philevents.org/event/show/151453), Zhejiang University
 
 
 
@@ -166,36 +167,36 @@ __“The Inversion of Meaningful Work”__
 `Apr 2026` [21st Annual Doctoral Conference 2026](https://dsps.ceu.edu/21st-annual-doctoral-conference-2026), Central European University
 
 
-`Jan 2026`
+
 __“The Fractured Collective”__
-- [The Sustainable Corporation: How to Secure Value in a Competitive World](https://philevents.org/event/show/141158), University of Groningen
+`Jan 2026` [The Sustainable Corporation: How to Secure Value in a Competitive World](https://philevents.org/event/show/141158), University of Groningen
 
 
-`May 2025`
+
 __[“Autonomy and Meaningful Work: a Bridge Thesis”](https://www.upf.edu/web/lphi/home/-/asset_publisher/B8ZD0QMBzXVe/content/seminar-autonomy-and-meaningful-work-a-bridge-thesis-08.05.25-/6764143/maximized)__
-- UPF Law and Philosophy PhD Seminar 
+`May 2025` UPF Law and Philosophy PhD Seminar 
 
 
-`October 2024`
+
 __"How is Self-Employment Meaningful?"__
-- UPF Law and Philosophy PhD Seminar 
+`October 2024` UPF Law and Philosophy PhD Seminar 
 
-`February 2024`
+
 __"Is Well Done Enough?: An Analysis on Meaningful Work"__
-- Warwick Graduate Conference in Political and Legal Theory 2024
+`February 2024` Warwick Graduate Conference in Political and Legal Theory 2024
 
-`October 2023`
+
 __[“Meaningful Work: a Double-Sided Coin”](https://www.upf.edu/web/dret/inici/-/asset_publisher/lhqR7nbA9YrC/content/seminari-meaningful-work-a-double-sided-coin-19.10.23-/maximized)__
-- UPF Law and Philosophy PhD Seminar 
+`October 2023` UPF Law and Philosophy PhD Seminar 
 
 
-`June 2021`
+
 __"Meaningful Work as Reciprocity"__
-- UPF Law PhD Jornada Conference
+`June 2021` UPF Law PhD Jornada Conference
 
-`April 2021`
+
 __"What is Distinctive about Contemporary Self-Employment?”__
-- UPF-UCLouvain Hoover Chair Workshop
+`April 2021` UPF-UCLouvain Hoover Chair Workshop
 
 A paper on an individualist conception of social contribution
 
