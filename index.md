@@ -157,8 +157,10 @@ __“The Price of Freedom?”__
 __“Self-Employment and Relations of Occupational Inferiority”__
 - [The 3rd Workshop of "Frontiers of Ethics and Political Philosophy"](https://philevents.org/event/show/151453), Zhejiang University
 
-`Apr 2026`
+
+
 __“The Inversion of Meaningful Work”__
+`Apr 2026`
 - [21st Annual Doctoral Conference 2026](https://dsps.ceu.edu/21st-annual-doctoral-conference-2026), Central European University
 
 
