@@ -200,7 +200,7 @@ __[“Meaningful Work: a Double-Sided Coin”](https://www.upf.edu/web/dret/inic
 
 __"Meaningful Work as Reciprocity"__
 
-`June 2021` UPF Law PhD Jornada Conference
+- `June 2021` UPF Law PhD Jornada Conference
 
 
 __"What is Distinctive about Contemporary Self-Employment?”__
