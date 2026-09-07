@@ -147,11 +147,10 @@ Participation grant for "Equality and Citizenship Summer School 2017", Universit
 
 ## Work in Progress and Presentations
 
-<!--- `Jul 2026`
+<!--- 
 __“The Price of Freedom?”__
-- [Society of Applied Philosophy Annual Conference 2026](https://www.appliedphil.org/society-for-applied-philosophy-annual-conference-2026/), University of Edinburgh
+- `Jul 2026` [Society of Applied Philosophy Annual Conference 2026](https://www.appliedphil.org/society-for-applied-philosophy-annual-conference-2026/), University of Edinburgh, 
  --->
-
  
 
 __“Self-Employment and Relations of Occupational Inferiority”__
