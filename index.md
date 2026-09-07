@@ -221,17 +221,17 @@ A paper on methodology, "on Itemisation"
 ## Other Presentations
 
 
-`June 2021`
+`Jun 2021`
 __“Justice and Self-Employment”__
 - SOAS Postgraduate Political Theory Workshop, online
 
-`July 2018`
+`Jul 2018`
 __[“If You're an Egalitarian, How Come You Like Lotteries?”](https://www.isus2018.de/menu/programme/talks-abstracts/)__
 - The 15th Conference of the International Society for Utilitarian Studies
 - Karlsruhe Institute of Technology
 
 
-`February 2018`
+`Feb 2018`
 __Commentator for Robert Huseby (Oslo), “Sufficiency and the Threshold Question”__
 - [Suﬃciency: Never Enough](https://www.upf.edu/web/dret/inici/-/asset_publisher/UzFOsEsEfEfx/content/id/146449794/maximized#.YgA19i8w1B1)
 - Universitat Pompeu Fabra
@@ -272,15 +272,15 @@ __[UPF Law & Philosophy PhD Seminar](https://www.upf.edu/web/lphi/phd-seminars#.
 __UPF Law & Philosophy Mailing List__, Universitat Pompeu Fabra
 - Creator and Manager, [Law & Philosophy](https://www.upf.edu/web/lphi)
 
-`October 2022`
+`Oct 2022`
 __[Republicanism and Labor Justice](https://sites.google.com/view/republicanism-labor-justice)__, Universitat Pompeu Fabra & Universitat de Barcelona
 - Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
-`July 2022`
+`Jul 2022`
 __Labor Market and Workplace Justice Workshop__, University of Oxford
 - Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
-`July 2021`
+`Jul 2021`
 __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.com)__, Universitat Pompeu Fabra
 - Conference Co-Organiser, [Justice at Work](https://www.upf.edu/web/justwork)
 
