@@ -187,6 +187,8 @@ __"How is Self-Employment Meaningful?"__
 
 __"Is Well Done Enough?: An Analysis on Meaningful Work"__
 
+`March 2026` UPF Law and Philosophy PhD Seminar  
+
 `February 2024` Warwick Graduate Conference in Political and Legal Theory 2024
 
 
