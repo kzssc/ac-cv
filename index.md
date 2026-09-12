@@ -45,7 +45,7 @@ __Universitat Pompeu Fabra__, Spain
 
 - Ph.D Law / Political Philosophy, [“Justice, Autonomy, and Self-Employment”](https://hdl.handle.net/10803/697921)
 - Supervisors:  [Iñigo González-Ricoy](https://www.igonzalezricoy.com) (Barcelona) and [Jahel Queralt Lange](https://www.upf.edu/web/jahel-queralt) (UPF)
-- Examiners:  [Anca Gheaus](https://people.ceu.edu/anca_gheaus) (Central European), [Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick), and [Pablo Scotto](https://sira.ub.edu/static/fitxes/Dret.html?id=pablo.scotto.benito.ub.edu&lang=en) (Barcelona). 
+- Examiners:  [Anca Gheaus](https://people.ceu.edu/anca_gheaus) (Central European), [Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) (Warwick), and [Pablo Scotto](https://sira.ub.edu/static/fitxes/Dret.html?id=pablo.scotto.benito.ub.edu&lang=en) (Barcelona) 
 
 `2023 Q2`
 __Concordia University__, Canada
