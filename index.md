@@ -161,7 +161,7 @@ __“Self-Employment and Relations of Occupational Inferiority”__
 
 __“The Inversion of Meaningful Work”__
 
-- `Sep 2026` Public Reason and Just Community Workshop, East China Normal University
+- `Sep 2026` [Public Reason and Just Community Workshop](https://mp.weixin.qq.com/s/hffd_ad5l7Yru3_AiaQCjQ), East China Normal University
 - `Apr 2026` [21st Annual Doctoral Conference 2026](https://dsps.ceu.edu/21st-annual-doctoral-conference-2026), Central European University
 
 
@@ -292,5 +292,5 @@ __[Labor Justice and Transformation of Work](http://transformationofwork.weebly.
 - 706 Guangzhou, Guangzhou, China
 
 
-Document Last Update: Monday, 7 September 2026
+Document Last Update: Thursday, 29 October 2026
 
